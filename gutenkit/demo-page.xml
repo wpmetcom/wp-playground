@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.9" created="2025-12-25 11:08" -->
+	<!-- generator="WordPress/6.9" created="2025-12-25 11:40" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GutenKit</title>
 	<link>https://wpgutenkit.com</link>
 	<description>Ultimate Page Builder Blocks For Gutenberg</description>
-	<pubDate>Thu, 25 Dec 2025 11:08:11 +0000</pubDate>
+	<pubDate>Thu, 25 Dec 2025 11:40:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wpgutenkit.com</wp:base_site_url>
@@ -37,7 +37,7 @@
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[razon]]></wp:author_login><wp:author_email><![CDATA[razon@roxnor.com]]></wp:author_email><wp:author_display_name><![CDATA[Razon Komar Pal]]></wp:author_display_name><wp:author_first_name><![CDATA[Razon Komar]]></wp:author_first_name><wp:author_last_name><![CDATA[Pal]]></wp:author_last_name></wp:author>
 
-				
+
 	<generator>https://wordpress.org/?v=6.9</generator>
 
 <image>
@@ -46,14 +46,14 @@
 	<link>https://wpgutenkit.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 
 		<item>
 		<title><![CDATA[GutenKit Demo]]></title>
 		<link>https://wpgutenkit.com/gutenkit-demo-for-playground/</link>
 		<pubDate>Sat, 29 Apr 1995 06:33:00 +0000</pubDate>
 		<dc:creator><![CDATA[razon]]></dc:creator>
-		<guid isPermaLink="false">https://wpmet.com/plugin/gutenkit/?page_id=17948</guid>
+		<guid isPermaLink="false">https://wpgutenkit.com/?page_id=17948</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gutenkit/container {"blockID":"89cc4547-9d4e-447b-a746-6824d54d3f39","blockClass":"gkit4d3f39","blocksCSS":{"desktop":".wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit4d3f39.gkit-block-custom-wide { flex-shrink: 1; }.gkit4d3f39 \u003e .gkit-container-overlay { transition: background 0.3s; }.editor-styles-wrapper :is(.block-editor-block-list__layout.is-root-container, .block-editor-block-list__layout.gkit-mega-menu-wrapper, .block-editor-block-list__block) \u003e :where(.gkit4d3f39), .gutenkit :where(.gkit4d3f39), .wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit4d3f39 { background: #ffffff ; }.editor-styles-wrapper :is(.block-editor-block-list__layout.is-root-container, .block-editor-block-list__layout.gkit-mega-menu-wrapper, .block-editor-block-list__block) \u003e :where(.gkit4d3f39), .gutenkit :where(.gkit4d3f39) { max-width: none; }.wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit4d3f39.gkit-block-custom-wide { flex-basis: 60%; }.gkit4d3f39 \u003e .gkit-block__inner { max-width: 1110px; justify-content: flex-start; align-items: center; }.gkit4d3f39 \u003e .gkit-container-overlay { opacity: 0.5; }.gkit4d3f39:hover \u003e .gkit-container-overlay { opacity: 0.5; }.gkit4d3f39.wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit4d3f39 { max-width: none; }","customStyles":""},"contentWidth":"boxed","contentBoxWidthDesktop":{"size":1110,"unit":"px"},"directionMobile":"row","justifyContentDesktop":"flex-start","containerBackground":{"backgroundType":"classic","gradient":null,"backgroundColor":"#ffffff","backgroundImage":[],"backgroundImageSize":"","backgroundVideo":"","backgroundPosition":{"Desktop":"center center","Tablet":"center center","Mobile":"center center"},"backgroundAttachment":"","backgroundRepeat":"","backgroundSize":"","customSize":{"Desktop":{"size":0,"unit":"%"},"Tablet":{"size":0,"unit":"%"},"Mobile":{"size":0,"unit":"%"}},"customPositionX":{"Desktop":{"size":0,"unit":"%"},"Tablet":{"size":0,"unit":"%"},"Mobile":{"size":0,"unit":"%"}},"customPositionY":{"Desktop":{"size":0,"unit":"%"},"Tablet":{"size":0,"unit":"%"},"Mobile":{"size":0,"unit":"%"}}},"variationSeleted":true,"commonStyle":{"desktop":".editor-styles-wrapper .block-editor-block-list__layout.is-root-container :where(.gkit4d3f39), .gutenkit :where(.gkit4d3f39) { position: relative; }.editor-styles-wrapper .block-editor-block-list__layout.is-root-container :where(.gkit4d3f39), .gutenkit :where(.gkit4d3f39) { padding: 25px 15px; z-index: 99; }","customStyles":""},"commonPaddingDesktop":{"top":"25px","right":"15px","bottom":"25px","left":"15px"},"commonZindexDesktop":99,"tooltipStyle":{"desktop":"","customStyles":""},"cssTransformModuleStyle":{"desktop":"","customStyles":""},"glassMorphismStyle":{"desktop":""},"OnPageScrollStyle":{"desktop":"","tablet":"","mobile":"","customStyles":""},"stickyStyles":{"desktop":"","customStyles":""}} -->
 <div class="wp-block-gutenkit-container alignfull"><div class="gkit-block__inner"><!-- wp:gutenkit/container {"blockID":"9d3a9c7f-4811-493c-b161-eba5fc3f3e9e","blockClass":"gkit3f3e9e","blocksCSS":{"desktop":".wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit3f3e9e.gkit-block-custom-wide { flex-shrink: 1; }.gkit3f3e9e \u003e .gkit-container-overlay { transition: background 0.3s; }.editor-styles-wrapper :is(.block-editor-block-list__layout.is-root-container, .block-editor-block-list__layout.gkit-mega-menu-wrapper, .block-editor-block-list__block) \u003e :where(.gkit3f3e9e), .gutenkit :where(.gkit3f3e9e) { max-width: 20%; }.wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit3f3e9e.gkit-block-custom-wide { flex-basis: 20%; }.gkit3f3e9e \u003e .gkit-block__inner { justify-content: flex-start; align-items: center; }.gkit3f3e9e \u003e .gkit-container-overlay { opacity: 0.5; }.gkit3f3e9e:hover \u003e .gkit-container-overlay { opacity: 0.5; }.gkit3f3e9e.wp-block-gutenkit-container \u003e .gkit-block__inner \u003e .gkit3f3e9e { max-width: 20%; }","customStyles":""},"containerWidth":"gkit-block-custom-wide","customWidthDesktop":{"size":20,"unit":"%"},"customWidthTablet":{"size":50,"unit":"%"},"customWidthMobile":{"size":70,"unit":"%"},"directionMobile":"row","justifyContentDesktop":"flex-start","justifyContentTablet":"flex-start","justifyContentMobile":"flex-start","variationSeleted":true,"commonStyle":{"desktop":".editor-styles-wrapper .block-editor-block-list__layout.is-root-container :where(.gkit3f3e9e), .gutenkit :where(.gkit3f3e9e) { position: relative; }","customStyles":""},"tooltipStyle":{"desktop":"","customStyles":""},"cssTransformModuleStyle":{"desktop":"","customStyles":""},"glassMorphismStyle":{"desktop":""},"OnPageScrollStyle":{"desktop":"","tablet":"","mobile":"","customStyles":""},"stickyStyles":{"desktop":"","customStyles":""}} -->
@@ -571,8 +571,8 @@ help business row more.</p></div></div>
 		<wp:post_id>17948</wp:post_id>
 		<wp:post_date><![CDATA[1995-04-29 06:33:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[1995-04-29 06:33:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-25 11:07:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-25 11:07:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-25 11:39:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-25 11:39:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gutenkit-demo-for-playground]]></wp:post_name>
@@ -600,7 +600,7 @@ help business row more.</p></div></div>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[rank_math_og_content_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"3d22d09ac9b45456cc53e6ee3f76f551";s:6:"images";a:2:{i:0;i:16555;i:1;i:13892;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"check";s:32:"d48e58c1fa0119adba9c9537ebbceb7a";s:6:"images";a:2:{i:0;i:16555;i:1;i:13892;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -781,4 +781,3 @@ help business row more.</p></div></div>
 							</item>
 				</channel>
 </rss>
-	
