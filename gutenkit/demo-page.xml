@@ -37,7 +37,7 @@
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[razon]]></wp:author_login><wp:author_email><![CDATA[razon@roxnor.com]]></wp:author_email><wp:author_display_name><![CDATA[Razon Komar Pal]]></wp:author_display_name><wp:author_first_name><![CDATA[Razon Komar]]></wp:author_first_name><wp:author_last_name><![CDATA[Pal]]></wp:author_last_name></wp:author>
 
-				
+
 	<generator>https://wordpress.org/?v=6.9</generator>
 
 <image>
@@ -46,7 +46,7 @@
 	<link>https://wpgutenkit.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 
 		<item>
 		<title><![CDATA[GutenKit Demo]]></title>
@@ -781,4 +781,3 @@ help business row more.</p></div></div>
 							</item>
 				</channel>
 </rss>
-	
